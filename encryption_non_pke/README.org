@@ -1,7 +1,6 @@
 Name: Ed Hawkins
 Homework for: Encryption (non PKE)
 
-
 Here are links to 
 
 1)Decoding a message:
