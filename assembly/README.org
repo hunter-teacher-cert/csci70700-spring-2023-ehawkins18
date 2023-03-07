@@ -4,8 +4,8 @@
 
 *** File Descriptions:
 
-prework.pdf - a copy of the slide deck for our prework
-homework.docx - a copy of our homework assignment
+- prework.pdf - a copy of the slide deck for our prework
+- homework.docx - a copy of our homework assignment
 
 * Instructions
 
