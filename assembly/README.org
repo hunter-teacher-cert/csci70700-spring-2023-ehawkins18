@@ -1,3 +1,12 @@
+* Assembly Group
+
+** Marieke Thomas, Wei (Amanda) Lee, Dave Celino-Volano, Taylor Grant-Knight, Ben Eckley, Ed Hawkins
+
+*** File Descriptions:
+
+prework.pdf - a copy of the slide deck for our prework
+homework.docx - a copy of our homework assignment
+
 * Instructions
 
 ** If you are presenting this unit:
