@@ -6,6 +6,7 @@
 
 - prework.pdf - a copy of the slide deck for our prework
 - homework.docx - a copy of our homework assignment
+- sync slides.pdf - a copy of the slide deck for our syncronous lesson
 
 * Instructions
 
