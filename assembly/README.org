@@ -1,6 +1,6 @@
 * Assembly Group
 
-** Marieke Thomas, Wei (Amanda) Lee, Dave Celino-Volano, Taylor Grant-Knight, Ben Eckley, Ed Hawkins
+** Marieke Thomas, Wei (Amanda) Lee, Dave Ciolino-Volano, Taylor Grant-Knight, Ben Eckley, Ed Hawkins
 
 *** File Descriptions:
 
